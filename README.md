@@ -1,6 +1,6 @@
-#**Behavioral Cloning** 
-###Creig Cavanaugh
-###March 2017
+**Behavioral Cloning**
+*Creig Cavanaugh*
+*March 2017*
 
 **Behavioral Cloning Project**
 
@@ -23,11 +23,11 @@ The goals / steps of this project are the following:
 [image7]: ./images/image_center_flipped.jpg "Flipped Image"
 [image8]: ./images/figure.png "MSE Loss Example"
 
-## Rubric Points
-###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
+**Rubric Points**
+Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
 ---
-###Files Submitted & Code Quality
+**Files Submitted & Code Quality**
 
 ####1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
